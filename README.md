@@ -1,2 +1,1 @@
-# Tribute-Page-P-gina-de-Tributo-
-A tribute page
+Tribute Page (Página de Tributo)
